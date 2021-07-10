@@ -1,4 +1,4 @@
-# Welcome to Part-2 of the bank management app
+# Welcome to Part-2 of the bank management application
 
 <p float="left">
 <img src="https://user-images.githubusercontent.com/85004364/125160842-d46d1b00-e19c-11eb-8ee6-76b53f08d33c.png"  width="480" height="300">
