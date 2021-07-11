@@ -1,17 +1,11 @@
 # Welcome to Part-1 of the bank management app
 
-<p float="left">
-<img src="https://user-images.githubusercontent.com/85004364/125160842-d46d1b00-e19c-11eb-8ee6-76b53f08d33c.png"  width="480" height="300">
-<img src="https://user-images.githubusercontent.com/85004364/125160843-d59e4800-e19c-11eb-87a3-24ba90558b13.png"  width="480" height="300">
-</p>
-<p float="left">
-<img src="https://user-images.githubusercontent.com/85004364/125160844-d59e4800-e19c-11eb-9fce-1b071c15d31a.png"  width="480" height="300">
-<img src="https://user-images.githubusercontent.com/85004364/125160845-d636de80-e19c-11eb-97df-a5bd0e9a0c8c.png"  width="480" height="300">
-</p>
+![App bankist](https://user-images.githubusercontent.com/85004364/125190300-07291900-e25a-11eb-81f2-bdd52efe479e.png)
 
 ---
 
 ### Table of Contents
+
 
 - [Description](#description)
 - [How To Use](#how-to-use)
@@ -19,7 +13,14 @@
 ---
 
 ## Description
-This website was coded as a part of a set of udemy courses i did on frontend web development by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).The website is part of the bankist App which is also there in this repo. 
+This application was coded as a part of a set of udemy courses i did on frontend web development by [Jonas Schmedtmann](https://www.udemy.com/user/jonasschmedtmann/).This app is used for managing the daily acticities of a user entering bank account page.
+
+#### Features
+- Withdrawal
+- Deposit
+- Loans which get updated with time
+- login timer
+- Money transfer among accounts
 
 ---
 
